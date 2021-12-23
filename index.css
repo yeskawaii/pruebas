@@ -1,3 +1,18 @@
-body{
-    background-color: bisque;
+/**********************************Tag Selector*************************/
+h1{
+    color: red;
+    font-size: 100px;
+}
+/*
+img{
+    background-color: red;
+}*/
+
+/********************************Class selector*************************/
+
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
 }
