@@ -1,0 +1,11 @@
+h1{
+    color: orange;
+    font-size: 35;
+}
+body{
+    background-color: paleturquoise;
+}
+
+.icons{
+    max-width: 100px;
+}

@@ -3,10 +3,10 @@ h1{
     color: red;
     font-size: 100px;
 }
-/*
-img{
-    background-color: red;
-}*/
+
+img:hover{
+    background-color: gold;
+}
 
 /********************************Class selector*************************/
 
@@ -15,4 +15,12 @@ img{
 }
 .broccoli{
     background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
+/********************************id selector*************************/
+
+#heading{
+    color: salmon;
 }
