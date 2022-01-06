@@ -1,11 +1,61 @@
 h1{
     color: orange;
-    font-size: 35;
+    margin-top: 0px;
+    font-size: 60px;
+    font-family: 'Sacramento', cursive;
 }
+
 body{
-    background-color: paleturquoise;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
 }
 
 .icons{
-    max-width: 100px;
+    width: 25px;
+    padding: .5%;
+    background-color:floralwhite;
+    border-radius: 10%;
+}
+.top-container{
+    background-color: paleturquoise;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+#top-header{
+    background-color: #FAEDC6;
+    border: solid;
+    border-width:3px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 15%;
+    bottom: 50%;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 15%;
+    top: 10%;
 }
